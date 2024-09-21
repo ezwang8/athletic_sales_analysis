@@ -53,7 +53,7 @@ This program is tasked to analyze U.S. athletic clothing sales data from 2020 to
 4. **Sales Trends by Day and Week:** Adjust the focus to invoice date to determine which days and weeks had the the highest sales of women's athletic footwear.
 
 ## Summary of Findings
-This analysis revealed the following key insights in athletic clothing market:
+This analysis revealed the following key insights in the athletic clothing market:
 - The top-selling region were primarily in metropolitan areas. Including New York, San Francisco, and Miami.
 - West Gear, Food Locker, and Kohl's were leading the market for women's athletic footwear, with significant sale numbers compared to the other competitors.
 - Day-of-week trends showed higher sales during weekends. Weekly trends showed seasonal peaks during major sports events, especially during Mid-December and Mid-July.
